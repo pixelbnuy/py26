@@ -1,7 +1,7 @@
 # Printing, printing, printing
 
 days = "Mon Tue Wed Thu Fri Sat Sun"
-months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
+months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug" # \n is newline
 
 print("Here are the days", days)
 print("Here are the months", months)
